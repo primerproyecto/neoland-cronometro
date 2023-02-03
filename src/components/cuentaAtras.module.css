@@ -1,0 +1,12 @@
+.countdown {
+    border: 1px solid hotpink;
+}
+.wrapper {
+    background-color: rgba(0,0,0, 0.54);
+    border-radius: 50px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
